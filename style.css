@@ -1,0 +1,12 @@
+.fazer__pedido {
+    width: 10rem;
+}
+
+.image__banner {
+    object-fit: cover;
+}
+
+.card {
+    border: 1px solid #edebe9 !important;
+    border-radius: 1em !important;
+}
